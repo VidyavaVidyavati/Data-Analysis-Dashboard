@@ -5,3 +5,6 @@ The objective of this project is to analyze customer data to identify the key fa
 - Visualize trends through an interactive dashboard.
 - Generate actionable insights for business decisions related to sales, marketing, and customer targeting.
 
+## Dataset used
+- <a href="https://github.com/VidyavaVidyavati/Data-Analysis-Dashboard/blob/main/Raw%20Data.xlsx">Dataset </a>
+
